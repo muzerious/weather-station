@@ -8,3 +8,6 @@ https://github.com/danjperron/PicoDHT22
 
 Robert HH's BMP085:
 https://github.com/robert-hh/BMP085_BMP180
+
+Fritzing Diagram:
+[image](/images/WeatherStation_bb.png)
